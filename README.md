@@ -37,7 +37,20 @@ If any rule fails, the password is marked **FAIL**.
 ---
 
 ## Screenshots
-![Screenshot](https://drive.google.com/file/d/1mjQzClngj0XfKkTTF1d4or5VkMNBCQp4/view?usp=drivesdk)
+![Screenshot](https://drive.google.com/file/d/1jNCP-IlCsi1zSopj0FqtXI1h3pcehsgP/view?usp=sharing)
+
+## Inputs
+abc
+123456
+Pass@123
+Admin
+
+## Outputs
+abc           Fail
+123456        Fail
+Pass@123      Pass
+Admin         Fail
 
 
-## Sample Output
+
+
