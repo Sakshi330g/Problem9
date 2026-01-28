@@ -37,7 +37,9 @@ If any rule fails, the password is marked **FAIL**.
 ---
 
 ## Screenshots
-![Screenshot](https://drive.google.com/file/d/1jNCP-IlCsi1zSopj0FqtXI1h3pcehsgP/view?usp=sharing)
+
+
+![Password Input](https://drive.google.com/uc?export=view&id=1jNCP-IlCsi1zSopj0FqtXI1h3pcehsgP)
 
 ## Inputs
 abc
